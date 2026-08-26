@@ -2,12 +2,7 @@ User-agent: *
 Allow: /
 Disallow: /admin/
 Disallow: /private/
-Disallow: /temp/
 
 Sitemap: https://fatimajabeen677-b1g.github.io/b1g-iptv-reseller/sitemap.xml
-
-# Host directive
 Host: https://fatimajabeen677-b1g.github.io/b1g-iptv-reseller/
-
-# Crawl delay for better performance
 Crawl-delay: 2
